@@ -1,32 +1,50 @@
-# Privacy Policy
+=# 🛡️ Privacy Policy
 
-**Effective Date**: May 17, 2025
+**Effective Date**: May 17, 2025  
+**Bot Name**: Faceit Bot
 
-This Privacy Policy explains how the Faceit Bot collects and uses data.
-
-## 1. Information Collected
-- Faceit usernames (only when provided by users via commands)
-- Discord user ID and server ID for internal functionality
-- No sensitive or personally identifiable information (PII) is collected
-
-## 2. How We Use Information
-- To link Discord accounts with Faceit profiles
-- To show player statistics and generate rankings
-- For bot functionality only. No external usage.
-
-## 3. Data Storage
-- No long-term data is stored on external servers.
-- All user data is transient and used only for Discord interactions.
-
-## 4. Sharing Data
-- We do not share any data with third parties.
-
-## 5. User Control
-- Users can delete their linked data with the `/unlink` command.
-
-## 6. Contact
-If you have any concerns, contact the developer: **sparta.1st** on Discord.
+Welcome! This Privacy Policy describes how Faceit Bot handles your data when you interact with it on Discord.
 
 ---
 
-_By using the Faceit Bot, you agree to this privacy policy._
+## 📌 1. What We Collect
+- 🟡 **Faceit usernames** (when submitted via commands like `/link`)
+- 🟢 **Discord User ID** and **Server ID** (used internally for functionality)
+- ❌ We **do not collect** email addresses, passwords, or any personally sensitive data
+
+---
+
+## ⚙️ 2. How We Use Your Data
+- 🔗 Link Discord users with their Faceit profiles
+- 📊 Display real-time stats, ratings, and leaderboards
+- 🔄 Improve bot features and user experience within Discord
+
+> 📌 Your data is used **only within Discord servers** where the bot is active. It is not shared or sold.
+
+---
+
+## 🗃️ 3. Data Storage
+- 🚫 No long-term storage: All data is processed in real-time
+- 💾 Temporary data may be cached in memory for efficiency, but is never stored in databases or external servers
+
+---
+
+## 🔐 4. Sharing Information
+- ❌ No data is shared with third parties
+- 🤝 Your privacy is our priority
+
+---
+
+## 🧼 5. Your Control
+- You can remove your data at any time using the `/unlink` command
+- Leaving a server also removes any connection the bot has with your profile
+
+---
+
+## 📬 6. Contact
+Have questions or concerns?  
+Reach out to the developer on Discord: **`sparta.1st`**
+
+---
+
+_Using the bot implies your agreement to this privacy policy._
