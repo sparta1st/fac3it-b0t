@@ -1,4 +1,4 @@
-=# 🛡️ Privacy Policy
+# 🛡️ Privacy Policy
 
 **Effective Date**: May 17, 2025  
 **Bot Name**: Faceit Bot
