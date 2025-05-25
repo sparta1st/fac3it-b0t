@@ -1,55 +1,65 @@
-# 📜 Terms of Service
+# 📄 Terms of Service (ToS)
 
-**Effective Date**: May 17, 2025  
-**Bot Name**: Faceit Bot
+_Last updated: May 25, 2025_
 
-These Terms govern your use of Faceit Bot on the Discord platform.
-
----
-
-## ✅ 1. Acceptable Use
-By using Faceit Bot, you agree to:
-- 🔹 Follow Discord's Terms of Service and Community Guidelines
-- 🔹 Use the bot only for legitimate and respectful purposes
-- 🔹 Avoid abuse, spam, or malicious behavior
+Welcome to **Fac3it B0t**! By using this Discord bot, you agree to the following terms. Please read them carefully. 🙏
 
 ---
 
-## ⚠️ 2. Disclaimer
-- Faceit Bot is provided **“as is”**, without warranties of any kind
-- The developer is **not liable** for downtime, data errors, or misuse
+## 📌 1. Acceptance of Terms
+
+By using or inviting **Fac3it B0t** to your server, you agree to these Terms of Service.  
+If you do not agree, please remove the bot from your server.
 
 ---
 
-## 🔒 3. Limitation of Liability
-- Use of the bot is at your own risk
-- We are not responsible for:
-  - 🛑 Server disruptions
-  - 🛑 Account restrictions from misuse
-  - 🛑 Any damages arising from bot usage
+## 🤖 2. Functionality & Purpose
+
+Fac3it B0t offers Faceit-related features including:
+
+- 🔗 Link your Faceit account (`/link`)
+- 📊 Show CS2 statistics (`/profil`)
+- 📁 Export all linked data (`/list`)
+- 🏆 Leaderboards by K/D, ELO, etc. (`/top`)
+- 🏷️ Role assignment by level (`/start_config`)
+- 🧹 Channel moderation tools (`/clear`)
+
+This bot is designed for competitive CS2 communities.
 
 ---
 
-## 🛑 4. Termination
-We reserve the right to:
-- 🚫 Restrict or ban the bot from specific servers
-- 🚫 Block abusive users
-- 🚫 Disable features if necessary
+## ⚠️ 3. User Responsibilities
+
+You agree not to:
+
+- ❌ Abuse or spam the bot
+- 🔧 Reverse-engineer or tamper with the code
+- 💬 Use commands for harassment or misinformation
+
+Admins must provide appropriate permissions for the bot to work.
 
 ---
 
-## 🔄 5. Changes to Terms
-These Terms may be updated at any time.  
-You’ll always find the latest version at the official GitHub page.
+## 🛠️ 4. Availability & Limitations
 
-> 📌 Continued use of the bot means you accept the current Terms.
-
----
-
-## 📬 6. Contact
-If you have any questions or concerns,  
-please reach out via Discord: **`sparta.1st`**
+- We do our best to keep the bot online 24/7.
+- However, outages or restarts may occur without prior notice.
+- The bot is in **continuous development** and may change.
 
 ---
 
-_Thank you for using Faceit Bot responsibly!_
+## 🔧 5. Changes to Terms
+
+- These terms may be updated without notice.
+- All changes are published at:  
+  [https://github.com/sparta1st/fac3it-b0t](https://github.com/sparta1st/fac3it-b0t)
+
+---
+
+## 👤 6. Credits & Ownership
+
+- Developed and maintained by `sparta.1st`
+- GitHub repository:  
+  [https://github.com/sparta1st/fac3it-b0t](https://github.com/sparta1st/fac3it-b0t)
+
+Admins are advised to **move the bot role to the top** in the role list for proper functionality.
